@@ -1,0 +1,161 @@
+﻿Company,Headquarters, State,Mill City,Mill State,Mill County,County,Market State,distance by road ,distance by rail,Trucking cost,Rail cost,Region
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Cook County, Illinois,293,250,586,150,Midwest
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Broward County, Florida,301,0,602,0,southeast
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, King County, Washington,312,300,624,180,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Dallas County, Texas,345,325,690,195,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Dallas County, Texas,346,325,692,195,Southwest
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Miami-Dade County, Florida,353,0,706,0,southeast
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Tarrant County, Texas,375,325,750,195,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Tarrant County, Texas,378,325,756,195,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Harris County, Texas,386,325,772,195,Southwest
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Harris County, Texas,429,325,858,195,Southwest
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Broward County, Florida,461,526,922,315.6,southeast
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Miami-Dade County, Florida,484,526,968,315.6,southeast
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Cook County, Illinois,513,500,1026,300,Midwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Bexar County, Texas,557,325,1114,195,Southwest
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Broward County, Florida,569,526,1138,315.6,southeast
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Miami-Dade County, Florida,591,526,1182,315.6,southeast
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Bexar County, Texas,638,325,1276,195,Southwest
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Alameda County, California,639,897,1278,538.2,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Cook County, Illinois,648,550,1296,330,Midwest
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Santa Clara County, California,655,897,1310,538.2,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Harris County, Texas,698,932,1396,559.2,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Cook County, Illinois,724,550,1448,330,Midwest
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Dallas County, Texas,783,932,1566,559.2,Southwest
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Tarrant County, Texas,811,932,1622,559.2,Southwest
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Kings County, New York,812,952,1624,571.2,northeast
+International Paper,Memphis, TN,Savannah,GA,Chatham County, New York County, New York,826,952,1652,571.2,northeast
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Queens County, New York,834,952,1668,571.2,northeast
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Cook County, Illinois,875,918,1750,550.8,Midwest
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Bexar County, Texas,896,932,1792,559.2,Southwest
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Harris County, Texas,898,2556,1796,1533.6,Southwest
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Los Angeles County, California,951,897,1902,538.2,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Clark County, Nevada,960,900,1920,540,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Cook County, Illinois,962,918,1924,550.8,Midwest
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, San Bernardino County, California,973,897,1946,538.2,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Orange County, California,980,897,1960,538.2,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Harris County, Texas,998,932,1996,559.2,Southwest
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, New York County, New York,999,900,1998,540,northeast
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Riverside County, California,1000,897,2000,538.2,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Kings County, New York,1005,900,2010,540,northeast
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Queens County, New York,1019,900,2038,540,northeast
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Dallas County, Texas,1020,811,2040,486.6,Southwest
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Dallas County, Texas,1036,932,2072,559.2,Southwest
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Tarrant County, Texas,1050,811,2100,486.6,Southwest
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Dallas County, Texas,1063,1216,2126,729.6,Southwest
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Tarrant County, Texas,1066,932,2132,559.2,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Broward County, Florida,1071,850,2142,510,southeast
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, New York County, New York,1079,952,2158,571.2,northeast
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Kings County, New York,1080,952,2160,571.2,northeast
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, New York County, New York,1080,1085,2160,651,northeast
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, San Diego County, California,1081,897,2162,538.2,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Queens County, New York,1082,952,2164,571.2,northeast
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Queens County, New York,1087,1085,2174,651,northeast
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Cook County, Illinois,1088,900,2176,540,Midwest
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Kings County, New York,1089,1085,2178,651,northeast
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Miami-Dade County, Florida,1093,850,2186,510,southeast
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Bexar County, Texas,1094,811,2188,486.6,Southwest
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Tarrant County, Texas,1106,1216,2212,729.6,Southwest
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Dallas County, Texas,1123,1230,2246,738,Southwest
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Broward County, Florida,1126,850,2252,510,southeast
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Tarrant County, Texas,1138,1230,2276,738,Southwest
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Miami-Dade County, Florida,1149,850,2298,510,southeast
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Bexar County, Texas,1169,932,2338,559.2,Southwest
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, New York County, New York,1245,1200,2490,720,northeast
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Kings County, New York,1246,1200,2492,720,northeast
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Queens County, New York,1256,1200,2512,720,northeast
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Harris County, Texas,1270,1230,2540,738,Southwest
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, New York County, New York,1292,1303,2584,781.8,northeast
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Harris County, Texas,1300,1216,2600,729.6,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, New York County, New York,1302,1200,2604,720,northeast
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Queens County, New York,1307,1303,2614,781.8,northeast
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Kings County, New York,1309,1200,2618,720,northeast
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Kings County, New York,1310,1303,2620,781.8,northeast
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, King County, Washington,1310,1300,2620,780,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Maricopa County, Arizona,1317,1250,2634,750,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Queens County, New York,1318,1200,2636,720,northeast
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Tarrant County, Texas,1327,1999,2654,1199.4,Southwest
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Maricopa County, Arizona,1380,1200,2760,720,Southwest
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Bexar County, Texas,1396,1216,2792,729.6,Southwest
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Bexar County, Texas,1428,1230,2856,738,Southwest
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Maricopa County, Arizona,1431,1200,2862,720,Southwest
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Clark County, Nevada,1500,1400,3000,840,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Clark County, Nevada,1568,1400,3136,840,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, San Bernardino County, California,1638,1222,3276,733.2,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, San Diego County, California,1671,1222,3342,733.2,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, San Diego County, California,1672,1222,3344,733.2,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Riverside County, California,1686,1222,3372,733.2,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Los Angeles County, California,1695,1222,3390,733.2,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Broward County, Florida,1702,1706,3404,1023.6,southeast
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, San Bernardino County, California,1706,1222,3412,733.2,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Miami-Dade County, Florida,1711,1706,3422,1023.6,southeast
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Orange County, California,1716,1222,3432,733.2,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Riverside County, California,1754,1222,3508,733.2,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Los Angeles County, California,1777,1222,3554,733.2,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Orange County, California,1778,1222,3556,733.2,west
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Clark County, Nevada,1786,1700,3572,1020,west
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Maricopa County, Arizona,1793,1700,3586,1020,Southwest
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, King County, Washington,1822,1800,3644,1080,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Clark County, Nevada,1836,1800,3672,1080,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Maricopa County, Arizona,1843,1800,3686,1080,Southwest
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Broward County, Florida,1885,1892,3770,1135.2,southeast
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Miami-Dade County, Florida,1900,1892,3800,1135.2,southeast
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Maricopa County, Arizona,1902,1500,3804,900,Southwest
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, San Bernardino County, California,1965,2030,3930,1218,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Santa Clara County, California,1973,1222,3946,733.2,west
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, Alameda County, California,1980,1222,3960,733.2,west
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Riverside County, California,2013,2030,4026,1218,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, San Bernardino County, California,2015,2100,4030,1260,west
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Alameda County, California,2018,2030,4036,1218,west
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Los Angeles County, California,2022,2030,4044,1218,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Clark County, Nevada,2029,2118,4058,1270.8,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Santa Clara County, California,2040,1222,4080,733.2,west
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Orange County, California,2042,2030,4084,1218,west
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, Santa Clara County, California,2047,2030,4094,1218,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, Alameda County, California,2048,1222,4096,733.2,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Dallas County, Texas,2062,1999,4124,1199.4,Southwest
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Riverside County, California,2063,2100,4126,1260,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Los Angeles County, California,2072,2100,4144,1260,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Orange County, California,2093,2100,4186,1260,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Maricopa County, Arizona,2101,2300,4202,1380,Southwest
+Sappi North America,Boston, MA,Cloquet,MN,Carlton County, San Diego County, California,2108,2030,4216,1218,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Maricopa County, Arizona,2121,1500,4242,900,Southwest
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, San Diego County, California,2143,2379,4286,1427.4,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, San Diego County, California,2158,2100,4316,1260,west
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Alameda County, California,2161,2100,4322,1260,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, San Bernardino County, California,2167,2379,4334,1427.4,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Cook County, Illinois,2181,2000,4362,1200,Midwest
+Domtar,Fort Mill, SC,Rothschild,WI,Marathon County, Santa Clara County, California,2201,2100,4402,1260,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Clark County, Nevada,2207,2118,4414,1270.8,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Riverside County, California,2215,2379,4430,1427.4,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Clark County, Nevada,2231,2200,4462,1320,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Los Angeles County, California,2231,2379,4462,1427.4,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Orange County, California,2245,2379,4490,1427.4,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Bexar County, Texas,2294,1999,4588,1199.4,Southwest
+International Paper,Memphis, TN,Pine Bluff,AR,Jefferson County, King County, Washington,2302,2185,4604,1311,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Harris County, Texas,2303,1999,4606,1199.4,Southwest
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, San Diego County, California,2342,2300,4684,1380,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, San Bernardino County, California,2345,2379,4690,1427.4,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, San Diego County, California,2362,2379,4724,1427.4,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, San Bernardino County, California,2369,2300,4738,1380,west
+Georgia-Pacific,Atlanta, GA,Crossett,AR,Ashley County, King County, Washington,2370,2185,4740,1311,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Riverside County, California,2393,2379,4786,1427.4,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Los Angeles County, California,2416,2379,4832,1427.4,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Riverside County, California,2417,2300,4834,1380,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Orange County, California,2423,2379,4846,1427.4,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Orange County, California,2455,2300,4910,1380,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Los Angeles County, California,2471,2300,4942,1380,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Santa Clara County, California,2502,2379,5004,1427.4,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, Alameda County, California,2509,2379,5018,1427.4,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Santa Clara County, California,2679,2379,5358,1427.4,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, Alameda County, California,2686,2379,5372,1427.4,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Santa Clara County, California,2703,900,5406,540,west
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, Alameda County, California,2710,2300,5420,1380,west
+Georgia-Pacific,Atlanta, GA,Cedar Springs,GA,Early County, King County, Washington,2728,2800,5456,1680,west
+International Paper,Memphis, TN,Savannah,GA,Chatham County, King County, Washington,2872,2800,5744,1680,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, New York County, New York,2959,2960,5918,1776,northeast
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Queens County, New York,2972,2960,5944,1776,northeast
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Kings County, New York,2975,2960,5950,1776,northeast
+Georgia-Pacific,Atlanta, GA,Palatka,FL,Putnam County, King County, Washington,2990,2556,5980,1533.6,west
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Broward County, Florida,3302,3312,6604,1987.2,southeast
+Georgia-Pacific,Atlanta, GA,Toledo,OR,Lincoln County, Miami-Dade County, Florida,3325,3312,6650,1987.2,southeast
